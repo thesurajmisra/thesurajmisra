@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @thesurajmisra
 - 👀 I’m interested in ...learning technology
-- 🌱 I’m currently learning ...BCA
+- 🌱 I’m currently working as RPA Developer
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
